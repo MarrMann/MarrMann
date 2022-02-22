@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MarrMann
-- 👀 I’m interested in game dev, cyber security, procedural generation, and software dev
-- 🌱 I’m currently learning OpenGL and C++
-- 💞️ I’m looking to collaborate on anything really, hit me up fam
+- 👀 Interested in game dev, cyber security, procedural generation, and software dev
+- 🌱 Currently learning OpenGL and C++
+- 💼 Working for Configit as a Senior Software Consultant
+- 💞️ If you want to collaborate or have an idea you'd like to share, hit me up
 - 📫 How to reach me: here I guess?
 
 <!---
