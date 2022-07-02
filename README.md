@@ -16,8 +16,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C#            2 hrs 17 mins   ⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠷⠄⠄⠄⠄⠄⠄⠄⠄⠄   63.55 %
-Other         1 hr 4 mins     ⠿⠿⠿⠿⠿⠿⠿⠦⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   29.93 %
+C++           55 mins         ⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠄⠄⠄⠄⠄   80.23 %
+JSON          9 mins          ⠿⠿⠿⠶⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   14.26 %
+Other         2 mins          ⠿⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   03.73 %
 ```
 
 <!--END_SECTION:waka-->
