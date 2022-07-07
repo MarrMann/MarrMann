@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C#            3 hrs 23 mins   ⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠤⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   48.55 %
-C++           1 hr 44 mins    ⠿⠿⠿⠿⠿⠿⠤⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   24.85 %
-Other         1 hr 3 mins     ⠿⠿⠿⠷⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   15.18 %
+C#           4 hrs 26 mins   ⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   48.09 %
+C++          1 hr 44 mins    ⠿⠿⠿⠿⠷⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   18.84 %
+Other        1 hr 29 mins    ⠿⠿⠿⠿⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   16.10 %
 ```
 
 <!--END_SECTION:waka-->
