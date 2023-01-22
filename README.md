@@ -16,10 +16,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C#           8 hrs 59 mins   ⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠶⠄⠄⠄   86.72 %
-XML          50 mins         ⠿⠿⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   08.09 %
-JavaScript   23 mins         ⠿⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   03.81 %
-JSON         8 mins          ⠦⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   01.38 %
+C#           6 hrs 30 mins   ⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠤⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   48.58 %
+TypeScript   1 hr 56 mins    ⠿⠿⠿⠶⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   14.50 %
+XML          1 hr 34 mins    ⠿⠿⠿⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   11.75 %
+JavaScript   1 hr 13 mins    ⠿⠿⠤⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   09.12 %
+JSON         1 hr 11 mins    ⠿⠿⠤⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   08.83 %
+Other        41 mins         ⠿⠤⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄   05.11 %
 ```
 
 <!--END_SECTION:waka-->
